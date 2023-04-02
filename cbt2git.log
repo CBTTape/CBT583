@@ -1,0 +1,10 @@
+2023-04-02 15:15:49.566741 - Initialized conversion of CBT583
+2023-04-02 15:15:49.661067 - Received CBT.V504.FILE583.PDS from FILE583.XMI 
+2023-04-02 15:15:49.664207 - Found $$$#DATE.txt (text/plain) in CBT.V504.FILE583.PDS, moved to PDS/$$$#DATE
+2023-04-02 15:15:49.665644 - Found $$$NOTE1.txt (text/plain) in CBT.V504.FILE583.PDS, moved to PDS/$$$NOTE1
+2023-04-02 15:15:49.666959 - Found $$$NOTE2.txt (text/plain) in CBT.V504.FILE583.PDS, moved to PDS/$$$NOTE2
+2023-04-02 15:15:49.668350 - Found $$$NOTE3.txt (text/plain) in CBT.V504.FILE583.PDS, moved to PDS/$$$NOTE3
+2023-04-02 15:15:49.669742 - Found $$$NOTE4.txt (text/plain) in CBT.V504.FILE583.PDS, moved to PDS/$$$NOTE4
+2023-04-02 15:15:49.671256 - Found @FILE583.txt (text/plain) in CBT.V504.FILE583.PDS, moved to PDS/@FILE583
+2023-04-02 15:15:49.671273 - Found EPROF.bin containing application/octet-stream, moved to PDS/EPROF
+2023-04-02 15:15:49.674121 - Found PROFSET.txt (text/plain) in CBT.V504.FILE583.PDS, moved to PDS/PROFSET
