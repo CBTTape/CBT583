@@ -1,0 +1,9 @@
+2025-04-13 20:53:09.391676 - Received CBT.V508.FILE583.PDS from FILE583.XMI 
+2025-04-13 20:53:09.392699 - Found $$$#DATE.txt (text/plain) in CBT.V508.FILE583.PDS, moved to PDS/$$$#DATE
+2025-04-13 20:53:09.392791 - Found $$$NOTE1.txt (text/plain) in CBT.V508.FILE583.PDS, moved to PDS/$$$NOTE1
+2025-04-13 20:53:09.392870 - Found $$$NOTE2.txt (text/plain) in CBT.V508.FILE583.PDS, moved to PDS/$$$NOTE2
+2025-04-13 20:53:09.392947 - Found $$$NOTE3.txt (text/plain) in CBT.V508.FILE583.PDS, moved to PDS/$$$NOTE3
+2025-04-13 20:53:09.393037 - Found $$$NOTE4.txt (text/plain) in CBT.V508.FILE583.PDS, moved to PDS/$$$NOTE4
+2025-04-13 20:53:09.393113 - Found @FILE583.txt (text/plain) in CBT.V508.FILE583.PDS, moved to PDS/@FILE583
+2025-04-13 20:53:09.393343 - Found EPROF.bin (application/octet-stream) in CBT.V508.FILE583.PDS, moved to PDS/EPROF
+2025-04-13 20:53:09.393442 - Found PROFSET.txt (text/plain) in CBT.V508.FILE583.PDS, moved to PDS/PROFSET
